@@ -38,3 +38,7 @@ description: What the skill does and when the agent should use it.
 ```
 
 Supporting files (`references/`, `assets/`, `scripts/`) go next to `SKILL.md`. Run `npx skills add . --list` from the repo root to check that the CLI finds the new skill.
+
+## License
+
+[MIT](LICENSE)
